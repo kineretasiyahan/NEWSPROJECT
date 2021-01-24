@@ -1,0 +1,15 @@
+
+.cards{ margin: 6px;
+   display: block;
+}
+nav{position: static;}
+header {height: 64vh;
+    padding: 1rem;
+}
+.card1 ,
+.card2 ,
+.card3 ,
+.card4 ,
+.card5 ,
+.card6 { margin: 4px;}
+footer{width: 100%;}
