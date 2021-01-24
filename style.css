@@ -29,7 +29,8 @@ li{
     display: grid;
     grid-template-columns: 7fr 1fr 2fr;
     padding: 10px;
-    align-items: center;}
+    align-items: center;
+    }
 
 header {  color: var(--light-color);
     background-color:var(--may-color);
@@ -37,7 +38,8 @@ header {  color: var(--light-color);
     padding: 2rem;
     position: relative;
     height: 40vh;
-width: 100vw;}
+width: 100vw;
+}
 .bu {
     background-color: var(--may-color);
    width: 100px;
@@ -91,7 +93,8 @@ h1+img {border: 4px solid black;}
 nav {background-color: var(--light-color);
     position: sticky;
     top: 0;
-height: 22vh;}
+height: 22vh;
+z-index: 1;}
 .a1{ color: var(--light-color);}
 
 footer {background-color: var(--may-color);
